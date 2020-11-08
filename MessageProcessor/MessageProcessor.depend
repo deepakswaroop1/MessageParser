@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1604825209 source:c:\users\dswaroop\documents\deepakcoding\messageprocessor\messageprocessor\src\messageprocessor.cpp
+	"MessageProcessor.h"
+
+1604821840 c:\users\dswaroop\documents\deepakcoding\messageprocessor\messageprocessor\messageprocessor.h
+	<iostream>
+	<string>
+	<dirent.h>
+	<sys/types.h>
+	<vector>
+	<pthread.h>
+	<fstream>
+	<map>
+	<chrono>
+	<ctime>
+	<unistd.h>
+
+1604826187 source:c:\users\dswaroop\documents\deepakcoding\messageprocessor\messageprocessor\main.cpp
+	<MessageProcessor.h>
+
